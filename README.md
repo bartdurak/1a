@@ -9,6 +9,7 @@
 ## Kilka podstawowych schematów blokowych
 [Link do opisu](./another-page.html).
 
+[Skanowanie kalilinux](./Net_scan.md)
 
 1. przykład kodu c++ dla schematu **pole i obwód prostokąta**
 
