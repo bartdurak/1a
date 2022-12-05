@@ -19,7 +19,7 @@ using namespace std;
 int main()
 {
 float a,b,h;
-cout << "Podaj bok a [cm]: ";
+cout << "Podaj boki a [cm]: ";
 cin >> a;
 cout << "Podaj bok b [cm]: ";
 cin >> b;
