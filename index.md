@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+## [Skanowanie kalilinux](./Net_scan.md)
 
 ## Schemat blokowy pola i obwodu**prostokąta**
 ## i wyrażenia c = a/pierwiastek(a*b) w C++
