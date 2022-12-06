@@ -2,7 +2,7 @@
 layout: startowa
 ---
 ### [Skanowanie kalilinux](./Net_scan.md)
-### [Zakładanie konta na github](./another-page.md)
+### [Zakładanie konta na github](./blob/master/another-page.md)
 # 1) dział algorytmiki. (Schematy blokowe)
 ### Schemat blokowy pola i obwodu**prostokąta**
 
