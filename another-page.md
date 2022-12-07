@@ -1,5 +1,5 @@
 ---
-layout: github
+layout: default 
 ---
 
 ## Zakladanie konta na github
