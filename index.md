@@ -193,7 +193,7 @@ int main()
 }
 ```
 ## 6.[Sortowanie przez scalanie](https://docs.google.com/presentation/d/1mq3bpAIn3--PZhshlFgosCEhWk2N8xHJJfC5mxGxxSU/edit?usp=sharing) 
-
+## 7.[Sortowanie przez wstawianie , zamiane ](https://docs.google.com/presentation/d/13gHVBpA_iJkuVTTfYowHqIpHldESevKfhOLUxLARLNQ/edit?usp=sharing)
 ### Large image
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
