@@ -7,8 +7,7 @@
 
 [Link do pełnego opisu strony](./another-page.html).
 
-<img height="300" src="/1a/assets/images/batq_zdalne.png" width="305"/>
-
+<img height="300" src="https://github.com/bartdurak/1a/blob/master/assets/images/batq_zdalne.png" title="zdalne" width="300"/>
 2. Opcjonalnie, jeśli chcesz wyświetlić podgląd swojej witryny na komputerze, dodaj następujące elementy do swojej witryny Gemfile: `Gemfile`:
 
     ```ruby
