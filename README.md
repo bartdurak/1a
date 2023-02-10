@@ -7,7 +7,7 @@
 
 [Link do pełnego opisu strony](./another-page.html).
 
-<img height="300" src="/home/fed36/RubymineProjects/1a/assets/images/batq_zdalne.png" width="310"/>
+<img height="300" src="/1a/assets/images/batq_zdalne.png" width="305"/>
 
 2. Opcjonalnie, jeśli chcesz wyświetlić podgląd swojej witryny na komputerze, dodaj następujące elementy do swojej witryny Gemfile: `Gemfile`:
 
