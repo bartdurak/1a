@@ -4,7 +4,7 @@ layout: default
 
 ### [Skanowanie kalilinux](./Net_scan.md)
 ### [Zakładanie konta na github](./another-page.md)
-# 1) dział algorytmiki. (Schematy blokowe)
+## 2. Dział algorytmiki. (Schematy blokowe)
 ### Schemat blokowy pola i obwodu**prostokąta*
 
 ## i wyrażenia c = a/pierwiastek(a*b) w C++
@@ -49,7 +49,6 @@ int main() {
     return 0;
 }
 ```
-
 #### 3. Wyliczenie wyrażenia dzielenia
 
 *  dzielenie wymaga typu danych zmiennoprzecinkowych:
@@ -72,7 +71,6 @@ int main() {
   return 0;
 }
 ```
-
 
 #### 4. Odnajdywanie minimalnej i maksymalnej wartości .
 

@@ -3,24 +3,27 @@
 
 *Kali Linux  [idealny system do pracy w LAN](https://www.kali.org), or even [use it today](#usage).*
 
-<img alt="Thumbnail of Hacker" height="200" src="../RubymineProjects/1a/batq_zdalne.png" width="200"/>
+<img height="400" src="/1a/assets/images/nethunter-pro-5.jpg" width="200"/>
 
-## Kilka podstawowych poleceń w linuxie
- nasze pierwsze szukanie hostów w sieci, które udostępniają zasoby sieciowe.
+1. [ netscan ] ## Podstawwy namierzania hostów windows 
+* 1 Wyobraź sobie że **musisz uzyskać dostęp do zasobów windows**, pracujesz na linux.
+nasze pierwsze szukanie hostów w sieci, które udostępniają zasoby sieciowe.
+
+a) skanujemy prorty sieć za pomocą **nmap**
 ```javascript
 nmap -Pn 192.168.0.0/24
 nbtscan 192.168.0.0/24
 ```
 Użyłem tutaj dwóch narzędzi `nmap `i `nbtscan`
 
-1.  przykład wykrywania windowsa w sieci **ważna naszej sieci**
+2. przykład wykrywania windowsa w sieci **ważne naszej sieci**
 
  ```   wynik z nbtscan
 192.168.0.94     GUMI             <server>  <unknown>        8c-89-a5-0d-45-fe
  nbtscan -v -s 192.168.0.0/24
 ```
 
-2. Optionally... CDN
-
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+3. Drugie polecenie zwrówci nam bardziej dokładne informacje **nmbscan -h** 191.168.0.208
+````javascript
+nmbscan -h 191.168.0.208
 ````
