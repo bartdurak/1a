@@ -1,15 +1,25 @@
 # Pomoc dydaktyczna dla programisty 1A ZST
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)]( https://github.com/bartdurak/char)
 
+
 *Jekyll theme  [zobacz projekt szablonu](http://pages-themes.github.io/hacker), or even [use it today](#usage).*
+<img height="250" src="/1a/assets/images/batq_zdalne.png" width="250"/>
 
-### 1.Przykład pliku README w popularnym obecnie jekyll
-
+### [Strona główna](./index.md)
+### [Git w CMD.exe windows ](./git_windows.md)
+### [Skanowanie kalilinux](./Net_scan.md)
+### [Zakładanie konta na github](./another-page.md)
+## Strona zadeklarowana dla uczniów technikum "technik programista"
+[Link do opisu](./another-page.html).
+*Jekyll theme  [zobacz projekt szablonu](http://pages-themes.github.io/hacker), or even [use it today](#usage).*
+### jesteś w pliku REDME.md a niżej umieściłem instrukcję założenia strony staycznej , jak ta.
+[bartdurak.github.io/1a](https://bartdurak.github.io/1a/)
+### 1. Przykład pliku README w popularnym obecnie jekyll
 
 [Link do pełnego opisu strony](./another-page.html).
 
 
-2. Opcjonalnie, jeśli chcesz wyświetlić podgląd swojej witryny na komputerze, dodaj następujące elementy do swojej witryny Gemfile: `Gemfile`:
+### 2. Opcjonalnie, jeśli chcesz wyświetlić podgląd swojej witryny na komputerze, dodaj następujące elementy do swojej witryny Gemfile: `Gemfile`:
 
     ```ruby
     gem "github-pages", group: :jekyll_plugins
