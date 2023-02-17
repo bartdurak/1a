@@ -3,6 +3,7 @@ layout: default
 ---
 
 ### [Skanowanie kalilinux](./Net_scan.md)
+### [Git w CMD.exe windows ](./git_windows.md)
 ### [Zakładanie konta na github](./another-page.md)
 ## 2. Dział algorytmiki. (Schematy blokowe)
 ### Schemat blokowy pola i obwodu**prostokąta*

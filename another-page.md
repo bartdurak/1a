@@ -6,7 +6,7 @@ layout: default
 
 _yay_
 
-[back](./)
+[back](./index.md)
 [<= wracaj do strony głównej](./)
 # 1. Rejestracja
 W pierwszej kolejności należy zarejestrować nowe konto na Githubie przez: github.com/join. Należy dodać swoje podstawowe dane i utworzyć nazwę użytkownika. Pamiętajcie, że nazwę tę widać publicznie. Jest też bardzo prawdopodobne, że konto na Githubie w przyszłości podacie swojemu pracodawcy – nazwa użytkownika typu dvpa666 jest niezalecana 😉
