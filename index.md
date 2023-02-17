@@ -2,10 +2,10 @@
 layout: default
 ---
 
+## 1. Dział algorytmiki. **Schematy blokowe**
 ### [Skanowanie kalilinux](./Net_scan.md)
 ### [Git w CMD.exe windows ](./git_windows.md)
 ### [Zakładanie konta na github](./another-page.md)
-## 2. Dział algorytmiki. (Schematy blokowe)
 ### Schemat blokowy pola i obwodu**prostokąta*
 
 ## i wyrażenia c = a/pierwiastek(a*b) w C++
