@@ -18,7 +18,6 @@
 
 [Link do pełnego opisu strony](./another-page.html).
 
-
 ### 2. Opcjonalnie, jeśli chcesz wyświetlić podgląd swojej witryny na komputerze, dodaj następujące elementy do swojej witryny Gemfile: `Gemfile`:
 
     ```ruby
@@ -26,7 +25,6 @@
     ```
 
 ## Personalizacja
-
 
 ### 2. Plik konfiguracji szablonu strony:
 
@@ -43,7 +41,6 @@ plik z kodem analizy odwiedzin strony
 show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 google_analytics: [Your Google Analytics tracking ID]
 ```
-
 ### Arkusz stylów
 
 Możesz dostosować kolorystykę strony, przez edycje pliku scss, więcej o tym na zajęciach
@@ -62,7 +59,6 @@ w 2 i 3 klasie.
 *Uwaga: jeśli chcesz zmienić zmienne Sass motywu, musisz ustawić nowe wartości przed linią `@import` w arkuszu stylów.*
 
 ### Praca z szablonem
-
 
 1. W przypadku niektórych zmian, takich jak niestandardowy `favicon`, możesz dodać niestandardowe pliki do lokalnego folderu `_includes`. Pliki [dostarczone z motywem](https://github.com/pages-themes/hacker/tree/master/_includes) stanowią punkt wyjścia i są dołączone do [oryginalnego szablonu układu](https://github. com/pages-themes/hacker/blob/master/_layouts/default.html).
 2. Aby uzyskać bardziej rozbudowane zmiany, [skopiuj oryginalny szablon](https://github.com/pages-themes/hacker/blob/master/_layouts/default.html) z repozytorium motywu<br />(*Pro- wskazówka: kliknij „raw”, aby ułatwić sobie kopiowanie*)
