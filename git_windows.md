@@ -78,7 +78,7 @@ git push -u origin main
 ```
 ![Screenshot from 2023-02-18 01-37-10.png](assets%2Ffoto_git%2FScreenshot%20from%202023-02-18%2001-37-10.png)
 #### Schemat blokowy minimalnej wartości
-<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/tedoh1yEU5">pic.twitter.com/tedoh1yEU5</a></p>&mdash; Bartek 🇵🇱 (@batq2) <a href="https://twitter.com/batq2/status/1591182357683662850?ref_src=twsrc%5Etfw">November 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-W taki sam sposób zakładny nowe repository na github.com
-bez CLion, zwyczajnie z wiersza poleceń. 
+bez urzycia CLion, zwyczajnie z wiersza poleceń. 
+
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/DjlPrU0XN8">pic.twitter.com/DjlPrU0XN8</a></p>&mdash; Bartek 🇵🇱 (@batq2) <a href="https://twitter.com/batq2/status/1627743129402019848?ref_src=twsrc%5Etfw">February 20, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
