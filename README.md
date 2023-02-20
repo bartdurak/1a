@@ -3,7 +3,7 @@
 
 
 *Jekyll theme  [zobacz projekt szablonu](http://pages-themes.github.io/hacker), or even [use it today](#usage).*
-<img height="250" src="/1a/assets/images/batq_zdalne.png" width="250"/>
+<img height="250" src="https://github.com/bartdurak/1a/blob/master/assets/images/batq_zdalne.png" width="250"/>
 
 ### [Strona główna](./index.md)
 ### [Git w CMD.exe windows ](./git_windows.md)
