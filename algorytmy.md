@@ -1,6 +1,8 @@
 ---
-layout: startowa
+layout: default
 ---
+## Strona zadeklarowana dla uczniów technikum "technik programista"
+## Algorytmika
 ### [Skanowanie kalilinux](./Net_scan.md)
 ### [Zakładanie konta na github](./another-page.md)
 # 1) dział algorytmiki. (Schematy blokowe)
