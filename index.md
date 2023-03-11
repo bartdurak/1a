@@ -13,10 +13,12 @@ layout: default
 ##  W tym roku udało się pozyskać licencje edu firmy. Normalnie produkt jest płatny i drogi. Pod długiej wymianie wiadomości mailowych z developerami firmy, obyło się bez euro legitymacji [jetbrains.](https://www.jetbrains.com/products)
 ![jetbrains](./assets/images/Screenshot from 2023-03-11 05-58-26.png)
 ### zakres algorytmiki w I semestrze klasy pierwszej. 
-### 1. Dział algorytmiki. [**Schematy blokowe**](./algorytmy.md)
-### 2.[Sortowanie przez scalanie](https://docs.google.com/presentation/d/1mq3bpAIn3--PZhshlFgosCEhWk2N8xHJJfC5mxGxxSU/edit?usp=sharing) 
-### 3.[Sortowanie przez wstawianie , zamiane ](https://docs.google.com/presentation/d/13gHVBpA_iJkuVTTfYowHqIpHldESevKfhOLUxLARLNQ/edit?usp=sharing)
-### Large image
+### 1.[Oprogramowanie do pisania stron. **js**](./https://www.jetbrains.com/phpstorm/)
+### ![JavaScript](./assets/usb/Screenshot from 2023-03-11 19-28-50.png)
+PhpStorm jest idealny do pracy z Symfony, Laravel, Drupal, WordPress, Zend Framework, Magento, Joomla!, CakePHP, Yii i innymi frameworkami
+
+###  Wymagania edukacyjne
+<iframe src="https://show.zohopublic.com/publish/pegpr4079fd7e682f44f49a7cd26c86763a6d" height="563" width="395" name="_Przedmiotowy%20system%20oceniania%20Programista%20w%205%20letnim%20toku%20nauczania" scrolling=no frameBorder="0" style="border:1px solid #AABBCC" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 * * *
