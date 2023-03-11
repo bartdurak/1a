@@ -8,7 +8,7 @@ layout: default
 ### [Zakładanie konta na github](./another-page.md)
 ### [Schematy blokowe](./algorytmy.md)
 ### [Strony powiązane. Konkursy dla programisty](http://programista1a.site)
-##  W tym roku udało się pozyskać licencje firmy [jetbrains](https://www.jetbrains.com/products)
+##  W tym roku udało się pozyskać licencje edu firmy. Normalnie produkt jest płatny i drogi. Pod długiej wymianie wiadomości mailowych z developerami firmy, obyło się bez euro legitymacji [jetbrains.](https://www.jetbrains.com/products)
 ![jetbrains](./assets/images/Screenshot from 2023-03-11 05-58-26.png)
 ### zakres algorytmiki w I semestrze klasy pierwszej. 
 ### 1. Dział algorytmiki. [**Schematy blokowe**](./algorytmy.md)
