@@ -10,7 +10,7 @@ layout: default
 ## Instrukcja wykonania systemu na usb startującego po wybraniu opcji boot usb w biosie płyty głównej.
 #### [Do preparowania dysku użyłem znanego rufus ](./https://rufus.ie/en)
 #### [plik źródłowy pobrałem ze strony red hat. Fedora secure](./https://labs.fedoraproject.org/pl/security/)
-można pobrać ładne środowiko gnome https://getfedora.org/pl/workstation/
+* można pobrać ładne środowiko gnome https://getfedora.org/pl/workstation/
 * * *
 ![rufus](./assets/usb/Screenshot from 2023-03-11 12-03-03.png)
 ![rufus](./assets/usb/Screenshot from 2023-03-11 12-03-30.png)
