@@ -6,6 +6,7 @@ layout: default
 ### [Strona główna](./index.md)
 ### [Skanowanie kalilinux](./Net_scan.md)
 ### [Zakładanie konta na github](./another-page.md)
+
 # 1) dział algorytmiki. (Schematy blokowe)
 ### Schemat blokowy pola i obwodu**prostokąta*
 
@@ -215,7 +216,7 @@ int main()
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
-
+[wyniki quizu gr 1 i 2](https://drive.google.com/drive/folders/1Dk5FDaXquS1Q6LRS9RgTeiWwE8AnezAZ?usp=sharing)
 ```
 The final element.
 ```
