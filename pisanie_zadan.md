@@ -11,6 +11,10 @@ layout: default
 ### [Strony powiązane. Konkursy dla programisty](http://programista1a.site)
 
 ### W kilku rkokach pokarzę jak pisać i oddawać zadania w trybie online. 
+![](./assets/images/yt-new-button-yoodle.gif)
+[Film, jak wykonać zadanie na GitLab](https://youtu.be/6-OAiM2WuvI)
+
+[Film 1 jak wykonać zadanie na Gitlab](https://youtu.be/eZGH_kDErl4)
 ![gl-1_me-2023.04.01-00_42_57.png](assets%2Ffoto_git%2Fgitlab%2Fgl-1_me-2023.04.01-00_42_57.png)
 ![gl-2_me-2023.04.01-00_42_57.png](assets%2Ffoto_git%2Fgitlab%2Fgl-2_me-2023.04.01-00_42_57.png)
 ![gl-3_m.png](assets%2Ffoto_git%2Fgitlab%2Fgl-3_m.png)
@@ -28,6 +32,7 @@ layout: default
 <iframe src="https://show.zohopublic.com/publish/pegpr4079fd7e682f44f49a7cd26c86763a6d" height="563" width="395" name="_Przedmiotowy%20system%20oceniania%20Programista%20w%205%20letnim%20toku%20nauczania" scrolling=no frameBorder="0" style="border:1px solid #AABBCC" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 [Film, jak wykonać zadanie na GitLab](https://youtu.be/6-OAiM2WuvI)
+[Film 1, jak wykonać zadanie na Gitlab] (https://youtu.be/eZGH_kDErl4)
 * * *
 
 ### Linki do materiałów pdf:
