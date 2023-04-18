@@ -7,7 +7,7 @@ layout: default
 ### [Git w CMD.exe windows ](./git_windows.md)
 ### [Zakładanie konta na github](./another-page.md)
 ### [Schematy blokowe](./algorytmy.md)
-### [GitLab zadania](./pisanie_zadania.html)
+### [GitLab zadania](./pisanie_zadania.md)
 ### [USB bootable](./usbboot.md)
 ### [Strony powiązane. Konkursy dla programisty](http://programista1a.site)
 
