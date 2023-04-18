@@ -13,8 +13,9 @@ layout: default
 ### W kilku rkokach pokarzę jak pisać i oddawać zadania w trybie online. 
 <img height="40" src="./assets/images/yt-new-button-yoodle.gif" title="yt" width="50"/>
 
-[Film 1, jak wykonać zadanie na Gitlab](https://youtu.be/eZGH_kDErl4)
-[Film 2, jak wykonać zadanie na GitLab](https://youtu.be/6-OAiM2WuvI)
+[**Film 1, jak wykonać zadanie na Gitlab**](https://youtu.be/eZGH_kDErl4)
+
+[**Film 2, jak wykonać zadanie na GitLab**](https://youtu.be/6-OAiM2WuvI)
 
 ![gl-1_me-2023.04.01-00_42_57.png](assets%2Ffoto_git%2Fgitlab%2Fgl-1_me-2023.04.01-00_42_57.png)
 ![gl-2_me-2023.04.01-00_42_57.png](assets%2Ffoto_git%2Fgitlab%2Fgl-2_me-2023.04.01-00_42_57.png)
