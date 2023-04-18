@@ -46,7 +46,6 @@ layout: default
 1. [Python](https://python101.readthedocs.io/pl/latest/podstawy/index.html#materialy)
 2. [C++](https://cpp0x.pl/kursy/Kurs-C++/1)
 
-
 ![Git](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ```
