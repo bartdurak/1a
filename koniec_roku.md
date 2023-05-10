@@ -9,7 +9,7 @@ layout: default
 ### [Schematy blokowe](./algorytmy.md)
 ### [USB bootable](./usbboot.md)
 ### [Strony powiązane. Konkursy dla programisty](http://programista1a.site)
-
+### [koniec_roku.md](koniec_roku.md)
 ### Podstawą do wystawienia oceny końcoworoczne jest średnia roczna. Ocena proponowana nie ma znaczenia !
 
 

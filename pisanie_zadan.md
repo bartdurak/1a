@@ -9,7 +9,7 @@ layout: default
 ### [Schematy blokowe](./algorytmy.md)
 ### [USB bootable](./usbboot.md)
 ### [Strony powiązane. Konkursy dla programisty](http://programista1a.site)
-
+### [koniec_roku.md](koniec_roku.md)
 ### W kilku rkokach pokarzę jak pisać i oddawać zadania w trybie online. 
 <img height="40" src="./assets/images/yt-new-button-yoodle.gif" title="yt" width="50"/>
 

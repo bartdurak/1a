@@ -10,7 +10,7 @@ layout: default
 ### [GitLab zadania](./pisanie_zadan.md)
 ### [USB bootable](./usbboot.md)
 ### [Strony powiązane. Konkursy dla programisty](http://programista1a.site)
-
+### [koniec_roku.md](koniec_roku.md)
 ##  W tym roku udało się pozyskać licencje edu firmy. Normalnie produkt jest płatny i drogi. Pod długiej wymianie wiadomości mailowych z developerami firmy, obyło się bez euro legitymacji [jetbrains.](https://www.jetbrains.com/products)
 ![jetbrains](./assets/images/Screenshot from 2023-03-11 05-58-26.png)
 ### Aby aktywować licencję ucznia należy:
