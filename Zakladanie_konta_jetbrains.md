@@ -22,17 +22,12 @@ instalujemy program *CLion*
 instalujemy program *PhpStorm*
 ```
 #### 2. Obieramy potwierdzenie rejestracji na mailu szkolnym. 
-![Screenshot from 2023-09-29 19-06-54.png](assets%2Fjbfoto%2FScreenshot%20from%202023-09-29%2019-06-54.png)
-![Screenshot from 2023-09-29 19-06-20.png](assets%2Fjbfoto%2FScreenshot%20from%202023-09-29%2019-06-20.png)
-![Screenshot from 2023-09-29 19-06-01.png](assets%2Fjbfoto%2FScreenshot%20from%202023-09-29%2019-06-01.png)
-![Screenshot from 2023-09-29 19-05-08.png](assets%2Fjbfoto%2FScreenshot%20from%202023-09-29%2019-05-08.png)
-![Screenshot from 2023-09-29 19-04-55.png](assets%2Fjbfoto%2FScreenshot%20from%202023-09-29%2019-04-55.png)
 ![Screenshot from 2023-09-29 19-03-01.png](assets%2Fjbfoto%2FScreenshot%20from%202023-09-29%2019-03-01.png)
-![Screenshot from 2023-09-29 19-00-08.png](assets%2Fjbfoto%2FScreenshot%20from%202023-09-29%2019-00-08.png)
-![Screenshot from 2023-09-29 18-54-17.png](assets%2Fjbfoto%2FScreenshot%20from%202023-09-29%2018-54-17.png)
-![Screenshot from 2023-09-29 18-53-14.png](assets%2Fjbfoto%2FScreenshot%20from%202023-09-29%2018-53-14.png)
-![Screenshot from 2023-09-29 18-52-33.png](assets%2Fjbfoto%2FScreenshot%20from%202023-09-29%2018-52-33.png)
-
+![Screenshot from 2023-09-29 19-04-55.png](assets%2Fjbfoto%2FScreenshot%20from%202023-09-29%2019-04-55.png)
+![Screenshot from 2023-09-29 19-05-08.png](assets%2Fjbfoto%2FScreenshot%20from%202023-09-29%2019-05-08.png)
+![Screenshot from 2023-09-29 19-06-01.png](assets%2Fjbfoto%2FScreenshot%20from%202023-09-29%2019-06-01.png)
+![Screenshot from 2023-09-29 19-06-20.png](assets%2Fjbfoto%2FScreenshot%20from%202023-09-29%2019-06-20.png)
+![Screenshot from 2023-09-29 19-06-54.png](assets%2Fjbfoto%2FScreenshot%20from%202023-09-29%2019-06-54.png)
 #### 3.Instalujemy program CLion i rejestrujemy się za pomocą tych samych danych co przy.
 ![1a – Zakładanie konta jetbrains.md_001.png](assets%2Fjbfoto%2F1a%20%E2%80%93%20Zak%C5%82adanie%20konta%20jetbrains.md_001.png)
 #### zakładaniu konta. 
