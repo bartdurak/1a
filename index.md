@@ -13,9 +13,9 @@ layout: default
 ### [koniec_roku.md](koniec_roku.md)
 ### [Strony powiązane. Konkursy dla programisty](http://durak.tech)
 ##  W tym roku udało się pozyskać licencje edu firmy. Normalnie produkt jest płatny i drogi. Pod długiej wymianie wiadomości mailowych z developerami firmy, obyło się bez euro legitymacji [jetbrains.](https://www.jetbrains.com/products)
+[Zakładanie konta Jetbrains.md](Zak%C5%82adanie_konta_jetbrains.md)
 ![jetbrains](./assets/images/Screenshot from 2023-03-11 05-58-26.png)
 ### [GitLab oddwaanie zadań](./pisanie_zadan.md))
-[Zakładanie konta jetbrains.md](Zak%C5%82adanie%20konta%20jetbrains.md)
 ### Aby aktywować licencję ucznia należy:
 1. wejść na stronę jetbrains.com/shop/eform/students https://www.jetbrains.com/shop/eform/students
 2. Wypełnić formularz wpisując dokładną nazwę szkoły ```Zespół Szkół Technicznych w Kolbuszowej, im. Bohaterów Września 1939 r.```
