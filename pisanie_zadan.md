@@ -30,6 +30,8 @@ layout: default
 ![screenshot-nimbusweb.me-2023.04.01-01_44_21.png](assets%2Ffoto_git%2Fgitlab%2Fscreenshot-nimbusweb.me-2023.04.01-01_44_21.png)
 
 ##  Wymagania edukacyjne
+
+https://docs.google.com/presentation/d/1MSqb4TV8KMKyRU9N1II84IkaqhohWs_tDu7lVZ7vXY4/edit?usp=sharing
 ### czyli ile procent na jaką ocenę?
 <iframe src="https://show.zohopublic.com/publish/pegpr4079fd7e682f44f49a7cd26c86763a6d" height="563" width="395" name="_Przedmiotowy%20system%20oceniania%20Programista%20w%205%20letnim%20toku%20nauczania" scrolling=no frameBorder="0" style="border:1px solid #AABBCC" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
