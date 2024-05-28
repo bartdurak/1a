@@ -3,6 +3,7 @@ layout: default
 ---
 ## Strona zadeklarowana dla uczniów technikum "technik programista" 
 ### *Jekyll theme  [zobacz projekt szablonu Jekyll](http://pages-themes.github.io/hacker) 
+### Instalowanie systemu na USB https://pbud.blogspot.com/2023/03/usb-pendrive-clion.html
 ### [Skanowanie kalilinux](./Net_scan.md)
 ### [Git w CMD.exe windows ](./git_windows.md)
 ### [Zakładanie konta na github](./another-page.md)
@@ -13,6 +14,7 @@ layout: default
 ### [koniec_roku.md](koniec_roku.md)
 ### [Strony powiązane. Konkursy dla programisty](http://durak.tech)
 ##  W tym roku udało się pozyskać licencje edu firmy. Normalnie produkt jest płatny i drogi. Pod długiej wymianie wiadomości mailowych z developerami firmy, obyło się bez euro legitymacji [jetbrains.](https://www.jetbrains.com/products)
+
 [Zakładanie konta Jetbrains.md](./Zakladanie_konta_jetbrains.md)
 ![jetbrains](./assets/images/Screenshot from 2023-03-11 05-58-26.png)
 ### [GitLab oddwaanie zadań](./pisanie_zadan.md))
