@@ -3,8 +3,8 @@ layout: default
 ---
 ## Strona zadeklarowana dla uczniów technikum "technik programista" 
 ### *Jekyll theme  [zobacz projekt szablonu Jekyll](http://pages-themes.github.io/hacker) 
-### Instalowanie systemu na USB https://pbud.blogspot.com/2023/03/usb-pendrive-clion.html
-### [Skanowanie kalilinux](./Net_scan.md)
+### Instalowanie systemu na USB  https://pbud.blogspot.com/2023/03/usb-pendrive-clion.html
+### [Skanowanie kalilinux](./Net_s can.md)
 ### [Git w CMD.exe windows ](./git_windows.md)
 ### [Zakładanie konta na github](./another-page.md)
 ### [Schematy blokowe](./algorytmy.md)
