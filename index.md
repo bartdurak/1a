@@ -15,6 +15,12 @@ layout: default
 ### [Strony powiązane. Konkursy dla programisty](http://durak.tech)
 ##  W tym roku udało się pozyskać licencje edu firmy. Normalnie produkt jest płatny i drogi. Pod długiej wymianie wiadomości mailowych z developerami firmy, obyło się bez euro legitymacji [jetbrains.](https://www.jetbrains.com/products)
 
+#### Repozytorium obsidian.md
+```
+git clone https://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@github.com//bartdurak/mud_gra.git
+
+```
+
 [Zakładanie konta Jetbrains.md](./Zakladanie_konta_jetbrains.md)
 ![jetbrains](./assets/images/Screenshot from 2023-03-11 05-58-26.png)
 ### [GitLab oddwaanie zadań](./pisanie_zadan.md))
