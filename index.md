@@ -18,10 +18,6 @@ layout: default
 [jetbrains.](https://www.jetbrains.com/products)
 
 #### Repozytorium obsidian.md
-```
-git clone https://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@github.com//bartdurak/mud_gra.git
-
-```
 
 <!-- Google tag (gtag.js) -->
 
