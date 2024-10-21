@@ -1,4 +1,4 @@
-----
+-----
 layout: default
 ----
 ## Strona zadeklarowana dla uczniów technikum "technik programista" 
