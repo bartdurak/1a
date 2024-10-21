@@ -19,16 +19,7 @@ layout: default
 
 #### Repozytorium obsidian.md
 
-<!-- Google tag (gtag.js) -->
-
-<script async src="[https://www.googletagmanager.com/gtag/js?id=G-0ZDLN5MCQ1](https://mechatronikaedu.blogspot.com)"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-0ZDLN5MCQ1');
-</script>
+obsidian 
 
 
 [Zakładanie konta Jetbrains.md](./Zakladanie_konta_jetbrains.md)
