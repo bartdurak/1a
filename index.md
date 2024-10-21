@@ -13,7 +13,9 @@ layout: default
 ### [Strony powiązane. Konkursy dla programisty](http://programista1a.site)
 ### [koniec_roku.md](koniec_roku.md)
 ### [Strony powiązane. Konkursy dla programisty](http://durak.tech)
-##  W tym roku udało się pozyskać licencje edu firmy. Normalnie produkt jest płatny i drogi. Pod długiej wymianie wiadomości mailowych z developerami firmy, obyło się bez euro legitymacji [jetbrains.](https://www.jetbrains.com/products)
+###  W tym roku udało się pozyskać licencje edu firmy. Normalnie produkt jest płatny i drogi. Pod długiej wymianie wiadomości mailowych z developerami firmy, obyło się bez euro legitymacji 
+
+[jetbrains.](https://www.jetbrains.com/products)
 
 #### Repozytorium obsidian.md
 ```
