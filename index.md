@@ -1,6 +1,6 @@
----
+----
 layout: default
----
+----
 ## Strona zadeklarowana dla uczniów technikum "technik programista" 
 ### *Jekyll theme  [zobacz projekt szablonu Jekyll](http://pages-themes.github.io/hacker) 
 ### [Instalowanie systemu na USB](https://pbud.blogspot.com/2023/03/usb-pendrive-clion.html)
