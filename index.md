@@ -22,6 +22,7 @@ git clone https://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@github.com//bartdurak
 ```
 
 <!-- Google tag (gtag.js) -->
+
 <script async src="[https://www.googletagmanager.com/gtag/js?id=G-0ZDLN5MCQ1](https://mechatronikaedu.blogspot.com)"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -30,6 +31,7 @@ git clone https://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@github.com//bartdurak
 
   gtag('config', 'G-0ZDLN5MCQ1');
 </script>
+
 
 [Zakładanie konta Jetbrains.md](./Zakladanie_konta_jetbrains.md)
 ![jetbrains](./assets/images/Screenshot from 2023-03-11 05-58-26.png)
