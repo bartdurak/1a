@@ -19,7 +19,7 @@ layout: default
 
 #### Repozytorium obsidian.md
 
-obsidian 
+obsidian . 
 
 
 [Zakładanie konta Jetbrains.md](./Zakladanie_konta_jetbrains.md)
