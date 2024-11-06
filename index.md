@@ -2,7 +2,7 @@
 layout: default
 ----
 ## Strona zadeklarowana dla uczniów technikum "technik programista" 
-### [Dla mechatronika 1C ](https://github.com/bartdurak/ArduinoZST)
+### [Dla mechatronika 1C. ](https://github.com/bartdurak/ArduinoZST)
 ### *Jekyll theme  [zobacz projekt szablonu Jekyll](http://pages-themes.github.io/hacker) 
 ### [Instalowanie systemu na USB](https://pbud.blogspot.com/2023/03/usb-pendrive-clion.html)
 ### [Skanowanie kalilinux](./Net_s can.md)
