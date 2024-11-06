@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Upload repozytorium git do github.com
+## Upload repozytorium git`a do github.com
 aa
 ### [Strona główna](./index.md)
 ### [Skanowanie kalilinux](./Net_scan.md)
