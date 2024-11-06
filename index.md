@@ -1,6 +1,6 @@
 -----
 layout: default
------
+------
 ## Strona zadeklarowana dla uczniów technikum "technik programista" 
 ### [Dla mechatronika 1C. ](https://github.com/bartdurak/ArduinoZST)
 ### *Jekyll theme  [zobacz projekt szablonu Jekyll](http://pages-themes.github.io/hacker) 
