@@ -35,7 +35,6 @@ obsidian .
 4. Wysłać zdjęcie legitymacji szkolnej. Nie zalecam kożystania z kamery, nie zawsze się udaje.
 ## Przeznaczenie programów z pakietu  jetbrains
 #### 1.[Oprogramowanie do pisania stron **internetowych**](./https://www.jetbrains.com/phpstorm/)
-#### ![JavaScript](./assets/usb/Screenshot from 2023-03-11 19-28-50.png)
 #### *PhpStorm*   jest idealny do pracy z Symfony, Laravel, Drupal, WordPress, Zend Framework, Magento, **Joomla!**, CakePHP, Yii i innymi frameworkami
 #### *WebStorm*   WebStorm od ponad 10 lat, aby uczynić kodowanie przyjemniejszym doświadczeniem. Niezależnie od tego, czy pracujesz z JS, TS, React, Vue, Angular, Node.js, HTML czy arkuszami stylów, WebStorm zapewni Ci wszystko.
 Wykorzystaj w pełni najnowocześniejsze technologie front-end, takie jak HTML 5, JavaScript, CSS, Sass, Less, Stylus, CoffeeScript, TypeScript, Emmet z refaktoryzacją.
@@ -58,7 +57,7 @@ Wykorzystaj w pełni najnowocześniejsze technologie front-end, takie jak HTML 5
 
 * * *
 
-### Linki do materiałów pdf:
+### Linki do materiałów pdf:.
 
 1. [Python](https://drive.google.com/drive/folders/13pR3LL6UMCNZz09_yeIj3gIQRAQDXww3?usp=share_link)
 2. [C++](https://docs.google.com/document/d/1ZwpNzletq-gW2Pj4nE3uNbVGeXjvHTOL/edit?usp=sharing&ouid=117430536303352971908&rtpof=true&sd=true)
