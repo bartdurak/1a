@@ -5,7 +5,7 @@ layout: default
 ### [Dla mechatronika 1C ](https://github.com/bartdurak/ArduinoZST)
 ### *Jekyll theme  [zobacz projekt szablonu Jekyll](http://pages-themes.github.io/hacker) 
 ### [Instalowanie systemu na USB](https://pbud.blogspot.com/2023/03/usb-pendrive-clion.html)
-### [Skanowanie kalilinux](./Net_s can.md)
+### [Skanowanie kalilinux](./Net_scan.md)
 ### [Git w CMD.exe windows ](./git_windows.md)
 ### [Zakładanie konta na github](./another-page.md)
 ### [Schematy blokowe](./algorytmy.md)
@@ -32,11 +32,7 @@ obsidian .
 1. wejść na stronę jetbrains.com/shop/eform/students https://www.jetbrains.com/shop/eform/students
 2. Wypełnić formularz wpisując dokładną nazwę szkoły ```Zespół Szkół Technicznych w Kolbuszowej, im. Bohaterów Września 1939 r.```
 3. Podać datę rozpoczęcia i zakończenia szkoły
-4. Wysłać zdjęcie legitymacji szkolnej. Nie zalecam kożystania z kamery, nie zawsze się udaje.
 ## Przeznaczenie programów z pakietu  jetbrains
-#### 1.[Oprogramowanie do pisania stron **internetowych**](./https://www.jetbrains.com/phpstorm/)
-#### *PhpStorm*   jest idealny do pracy z Symfony, Laravel, Drupal, WordPress, Zend Framework, Magento, **Joomla!**, CakePHP, Yii i innymi frameworkami
-#### *WebStorm*   WebStorm od ponad 10 lat, aby uczynić kodowanie przyjemniejszym doświadczeniem. Niezależnie od tego, czy pracujesz z JS, TS, React, Vue, Angular, Node.js, HTML czy arkuszami stylów, WebStorm zapewni Ci wszystko.
 Wykorzystaj w pełni najnowocześniejsze technologie front-end, takie jak HTML 5, JavaScript, CSS, Sass, Less, Stylus, CoffeeScript, TypeScript, Emmet z refaktoryzacją.
 ### 2.[Oprogramowanie do pisania programów ** C++ **]
 #### *Clion*   języki C i C++. Filtruj wyniki ukończenia według typu w Inteligentnym uzupełnianiu.
@@ -50,7 +46,7 @@ Wykorzystaj w pełni najnowocześniejsze technologie front-end, takie jak HTML 5
 ####  IntelliJ IDEA W kreatorze nowego projektu wybierz Android po lewej stronie. Jeśli nie masz skonfigurowanego pakietu Android SDK, IntelliJ IDEA wykryje to i poprosi o pobranie:
 ***Dlaczeg więc programiści piszą w programie visual studio?. Bo jest darmowy.  Kto więc używa jetbrains?.  Duże firmy, korporacje development.***
 
-##  Wymagania edukacyjne
+####  Wymagania edukacyjne
 ### czyli ile procent na jaką ocenę?
 <iframe src="https://show.zohopublic.com/publish/pegpr4079fd7e682f44f49a7cd26c86763a6d" height="563" width="395" name="_Przedmiotowy%20system%20oceniania%20Programista%20w%205%20letnim%20toku%20nauczania" scrolling=no frameBorder="0" style="border:1px solid #AABBCC" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
