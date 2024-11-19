@@ -3,6 +3,9 @@ layout: default
 ------
 ## Strona zadeklarowana dla uczniów technikum "technik programista, mechatronik" 
 ### [Dla mechatronika 1C ](https://github.com/bartdurak/ArduinoZST)
+### [Blog mechatronikaedu](https://mechatronikaedu.blogspot.com)
+### [Dla budownictwa 1a ](https://pbud.blogspot.com)
+____________________________________________________
 ### *Jekyll theme  [zobacz projekt szablonu Jekyll](http://pages-themes.github.io/hacker) 
 ### [Instalowanie systemu na USB](https://pbud.blogspot.com/2023/03/usb-pendrive-clion.html)
 ### [Skanowanie kalilinux](./Net_scan.md)
@@ -22,9 +25,7 @@ layout: default
 
 obsidian . 
 
-
 [Zakładanie konta Jetbrains.md](./Zakladanie_konta_jetbrains.md)
-
 
 ![jetbrains](./assets/images/Screenshot from 2023-03-11 05-58-26.png)
 ### [GitLab oddwaanie zadań](./pisanie_zadan.md))
