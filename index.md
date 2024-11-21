@@ -12,7 +12,7 @@ ____________________________________________________
 ### [Skanowanie kalilinux](./Net_scan.md)
 ### [Git w CMD.exe windows ](./git_windows.md)
 ### [Zakładanie konta na github](./another-page.md)
-### [Schematy blokowe](./algorytmy.md)
+### [Informatyka kl 1a i1B => Schematy blokowe](./algorytmy.md)
 ### [GitLab zadania](./pisanie_zadan.md)
 ### [USB bootable](./usbboot.md)
 ### [Strony powiązane. Konkursy dla programisty](http://programista1a.site)

@@ -6,6 +6,8 @@ layout: default
 ### [Strona główna](./index.md)
 ### [Skanowanie kalilinux](./Net_scan.md)
 ### [Zakładanie konta na github](./another-page.md)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LWNUczvbEgM?si=BeK7R00xg0pTxxDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 # 1) dział algorytmiki. (Schematy blokowe)
 ### Schemat blokowy pola i obwodu**prostokąta*
