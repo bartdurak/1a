@@ -7,7 +7,7 @@ layout: default
 ### [Skanowanie kalilinux](./Net_scan.md)
 ### [Zakładanie konta na github](./another-page.md)
 ### Zakres podstawy programowej z informatyki. 
-<iframe src="https://workdrive.zohopublic.com/embed/ly5m4a182ae284de84a5fa1f8a5935e321b11?toolbar=false&appearance=light&themecolor=green" scrolling="no" frameborder="0" allowfullscreen=true width="800" height="520" title="Osadź kod" ></iframe>
+<iframe src="https://workdrive.zohopublic.com/embed/p1q5l70c3f134fc254a43b879d5b441fe3eca?toolbar=false&appearance=light&themecolor=green" scrolling="no" frameborder="0" allowfullscreen=true width="800" height="520" title="Osadź kod" ></iframe>
 # 1) dział algorytmiki. (Schematy blokowe)
 ### Schemat blokowy pola i obwodu**prostokąta*
 
