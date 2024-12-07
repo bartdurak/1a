@@ -1,13 +1,14 @@
 ---
 layout: default
 ---
-## Strona zadeklarowana dla uczniów technikum "technik programista"
+## Strona zadeklarowana dla uczniów technikum i szoły branżowej" informatyka"
 ## Algorytmika
 ### [Strona główna](./index.md)
 ### [Skanowanie kalilinux](./Net_scan.md)
 ### [Zakładanie konta na github](./another-page.md)
+### Zakres podstawy programowej z informatyki. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LWNUczvbEgM?si=BeK7R00xg0pTxxDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe src="https://workdrive.zohopublic.com/embed/ly5m4a182ae284de84a5fa1f8a5935e321b11?toolbar=false&appearance=light&themecolor=green" scrolling="no" frameborder="0" allowfullscreen=true width="800" height="520" title="Osadź kod" ></iframe>
 # 1) dział algorytmiki. (Schematy blokowe)
 ### Schemat blokowy pola i obwodu**prostokąta*
 
